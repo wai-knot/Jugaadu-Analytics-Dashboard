@@ -30,5 +30,3 @@ Custom Google Analytics Dashboard based on Google Analytics Reporting API v4 wit
 7. Run `npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-The blog post [How to develop a custom Google Analytics Dashboard using Google Analytics Reporting API v4 and React.js (VERSION 2020)](https://ramonak.io/posts/react-google-analytics-dashboard).
