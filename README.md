@@ -18,7 +18,7 @@ Custom Jugaadu Analytics Dashboard based on Google Analytics Reporting API v4 wi
 - [React Charts](https://github.com/jerairrest/react-chartjs-2)
 - [Styled Components](https://styled-components.com/)
 
-## Run the app locally
+## Run the app on your machine
 
 1. Clone this repo
 2. Create project in [Google Developers Console](https://console.developers.google.com/)
@@ -29,10 +29,10 @@ Custom Jugaadu Analytics Dashboard based on Google Analytics Reporting API v4 wi
 6. Run `npm install`
 7. Run `npm start`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 1. *Get the code:*  
-   - Find the command to "clone" this project (it might be provided elsewhere). Cloning creates a copy of the project on your computer.
+   - Find the command to "clone" this project. Cloning creates a copy of the project on your computer.
 
 2. *Set up Google project:*  
    - Go to [https://console.cloud.google.com/](https://console.cloud.google.com/) and create a new project. This is needed for some features in the app.
@@ -51,3 +51,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 7. *Start the app!*  
    - In the same command prompt, type npm start and press enter. This will run the app on your computer so you can test it out.
+  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
