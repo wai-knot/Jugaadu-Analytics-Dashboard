@@ -30,3 +30,26 @@ Custom Jugaadu Analytics Dashboard based on Google Analytics Reporting API v4 wi
 7. Run `npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Here's a simpler explanation of the instructions:
+
+1. *Get the code:*  
+   - Find the command to "clone" this project (it might be provided elsewhere). Cloning creates a copy of the project on your computer.
+
+2. *Set up Google project:*  
+   - Go to [https://console.cloud.google.com/](https://console.cloud.google.com/) and create a new project. This is needed for some features in the app.
+
+3. *Enable Google Analytics:*  
+   - Within your new Google project, turn on a feature called "Google Analytics Reporting API". This allows the app to access data from Google Analytics.
+
+4. *Tell Google about your app:*  
+   - Still in the Google project settings, there's a section for configuring "OAuth consent screen". This helps Google understand what kind of app you're building.
+
+5. *Add your secret code:*  
+   - There's a file named .env in the project. Find the line that says REACT_APP_CLIENT_ID='YOUR_CLIENT_ID'. Replace YOUR_CLIENT_ID with a special code you get from Google during the OAuth consent screen setup. This code is secret, so keep it safe!
+
+6. *Install things the app needs:*  
+   - Open a command prompt (or terminal) in the project folder. Type npm install and press enter. This downloads all the tools the app needs to run.
+
+7. *Start the app!*  
+   - In the same command prompt, type npm start and press enter. This will run the app on your computer so you can test it out.
