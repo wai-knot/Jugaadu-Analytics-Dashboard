@@ -20,17 +20,6 @@ Custom Jugaadu Analytics Dashboard based on Google Analytics Reporting API v4 wi
 
 ## Run the app on your machine
 
-1. Clone this repo
-2. Create project in [Google Developers Console](https://console.developers.google.com/)
-3. Enable Google Analytics Reporting API.
-4. Configure Google OAuth consent screen.
-5. Add your CLIENT_ID into .env file:
-   REACT_APP_CLIENT_ID='YOUR_CLIENT_ID'
-6. Run `npm install`
-7. Run `npm start`
-
-
-
 1. *Get the code:*  
    - Find the command to "clone" this project. Cloning creates a copy of the project on your computer.
 
