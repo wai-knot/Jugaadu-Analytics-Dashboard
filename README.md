@@ -1,6 +1,6 @@
-# Custom Google Analytics Dashboard
+# Jugaadu-Analytics-Dashboard
 
-Custom Google Analytics Dashboard based on Google Analytics Reporting API v4 with OAuth2, charts and tables.
+Custom Jugaadu Analytics Dashboard based on Google Analytics Reporting API v4 with OAuth2, charts and tables.
 
 <p float="left">
     <img src="src/assets/images/users.JPG" alt="users visits" width="200" height="90"/>
