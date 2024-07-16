@@ -31,8 +31,6 @@ Custom Jugaadu Analytics Dashboard based on Google Analytics Reporting API v4 wi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Here's a simpler explanation of the instructions:
-
 1. *Get the code:*  
    - Find the command to "clone" this project (it might be provided elsewhere). Cloning creates a copy of the project on your computer.
 
